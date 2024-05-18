@@ -1,0 +1,74 @@
+#sree{
+    color: #ee8484;
+    background-color: rgb(47, 11, 207);
+    text-align: center;
+    text-shadow: 3px 4px 1px   hsl(0, 8%, 5%);
+    box-shadow: 10px 10px 20px #ff40f2;
+}
+.image{
+    height: 200px;
+    width: 200x;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 540px;
+    border-radius: 200px;
+    box-shadow: 10px 10px 20px #ff40f2;
+    font-style: oblique
+    ;
+}
+strong{
+    color: black;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 500px;
+}
+.skills{
+     color: #fa0c14;
+     background-color: #f6fa0c;
+     text-align: center;
+     text-shadow: 3px 4px 1px   hsl(0, 8%, 5%);
+     box-shadow: 10px 10px 20px #ff40f2;
+
+}
+.stack{
+    color: rgb(237, 7, 145);
+}
+.html{
+    color: #030101;
+}
+.css{
+    color: hsl(230, 87%, 43%);
+}
+.java{
+    color: black;
+}
+.project{
+    color: #fa0c14;
+    background-color: #280194;
+    text-align: center;
+    text-shadow: 3px 4px 1px   hsl(0, 8%, 5%);
+    box-shadow: 10px 10px 20px #ff40f2;
+}
+.projects{
+    height: 300px;
+    width: 300px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 350px;
+}
+.file{
+    color: #000;
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.project2{
+    height: 300px;
+    width: 300px;
+}
+span{
+    color: rgb(216, 97, 17);
+}
